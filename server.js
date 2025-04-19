@@ -1,1 +1,1 @@
-const socket = io(' https://cremass.github.io/jogoooo/');
+const socket = io('https://jogoooo-1.onrender.com');
